@@ -1,6 +1,5 @@
-### Olá pessoal, seja bem vindo(a) ao meu perfil.
+## Olá pessoal, seja bem vindo(a) ao meu perfil.
 * Trabalho com programação desde o início de [2020], até o momento venho aderindo muito conhecimento através de projetos e nos lugares por onde trabalhei.
-<br />
 * Abaixo deixo um pouco do histórico de minha vida profissional.
 
 
@@ -10,9 +9,9 @@
 [![Top Langs]( 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/foguim.junior.1)
 [![Top Langs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtMgPROMfPh_ozBoqUsNpQQ)
 
-### Tecnologias que trabalho e outras que tenho um pouco de conhecimento
+## Tecnologias que trabalho e outras que tenho um pouco de conhecimento
 
-# Linguagens - Bibliotecas - "Frameworks"
+### Linguagens - Bibliotecas - "Frameworks"
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
