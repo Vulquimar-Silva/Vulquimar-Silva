@@ -5,9 +5,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&layout=compact)](https://github.com/Vulquimar-Silva/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Vulquimar-Silva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vulquimar-Silva&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Vulquimar-Silva/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vulquimar-Silva&repo=convoychat" />
 </a>
