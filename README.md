@@ -1,6 +1,6 @@
 ### Fala galera 👋
 
-![Alt Text](https://media.tenor.com/images/70a073f84d8a685e22e7cf7f1ae00dd5/tenor.gif)
+![Alt Text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 <a href="https://github.com/Vulquimar-Silva/github-readme-stats">
