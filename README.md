@@ -1,3 +1,8 @@
+### Olá pessoal, muito obrigado pela visita em meu perfil.
+-Trabalho com programação desde o inicio de 2020, até o momento venho aderinto muito conhecimento com projetos entre amigos e nos lugares por onde passei.
+-Abaixo deixo um pouco do histórico de minha vida profissional.
+
+
 ### Rede Social
 [![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vulquimar-silva-0aab36119)
 [![Top Langs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vulquimar-Silva)
