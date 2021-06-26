@@ -1,6 +1,6 @@
 ### Olá pessoal, seja bem vindo(a) ao meu perfil.
-. Trabalho com programação desde o inicio de 2020, até o momento venho aderinto muito conhecimento com projetos entre amigos e nos lugares por onde passei.<br />
-. Abaixo deixo um pouco do histórico de minha vida profissional.
+<footer>Trabalho com programação desde o inicio de 2020, até o momento venho aderinto muito conhecimento com projetos entre amigos e nos lugares por onde passei.</footer><br />
+<footer>Abaixo deixo um pouco do histórico de minha vida profissional.</footer>
 
 
 ### Rede Social
