@@ -1,5 +1,6 @@
 ### Rede Social
 [![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vulquimar-silva-0aab36119)
+[![Top Langs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vulquimar-Silva)
 
 
 ### Tecnologias que trabalho
@@ -35,6 +36,5 @@
 <a href="https://github.com/Vulquimar-Silva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&layout=compact">
-  <img align="center" src="https://github.com/anuraghazra/github-readme-stats" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva&show_icons=true&theme=radical)
+
