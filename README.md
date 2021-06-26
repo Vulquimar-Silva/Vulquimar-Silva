@@ -33,10 +33,11 @@
 ![Alt Text](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&langs_count=8" />
+</a>
 
 <a href="https://github.com/Vulquimar-Silva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&langs_count=8" />
-</a>
+
