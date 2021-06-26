@@ -21,7 +21,7 @@
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### Sistema Operacional
-![Alt Text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Alt Text](https://img.shields.io/badge/Linux-ff8c00?style=for-the-badge&logo=linux&logoColor=black)
 ![Alt Text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### IDE
