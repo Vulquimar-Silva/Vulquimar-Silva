@@ -6,8 +6,8 @@
 
 
 <a href="https://github.com/Vulquimar-Silva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vulquimar-Silva&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva" />
 </a>
-<a href="https://github.com/Vulquimar-Silva/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vulquimar-Silva&repo=convoychat" />
+<a href="https://github.com/Vulquimar-Silva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&layout=compact" />
 </a>
