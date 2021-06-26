@@ -3,7 +3,7 @@
 [![Top Langs](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vulquimar-Silva)
 
 
-###                                  Tecnologias que trabalho e outras que tenho conhecimento
+###                                  Tecnologias que trabalho e outras que tenho um pouco de conhecimento
 
 Linguagens - Bibliotecas - Frameworks
 
