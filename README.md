@@ -16,7 +16,9 @@
 ### Clound
 ![Alt Text](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
+### Clound
+![Alt Text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Alt Text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <a href="https://github.com/Vulquimar-Silva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva" />
