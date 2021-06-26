@@ -37,4 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva" />
 </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
