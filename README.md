@@ -12,7 +12,7 @@
 
 ## Tecnologias que trabalho e outras que tenho um pouco de conhecimento
 
-### Linguagens - Bibliotecas - "Frameworks"
+### Linguagens - Bibliotecas - Frameworks
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
