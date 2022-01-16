@@ -63,12 +63,6 @@
 ![Alt Text](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Alt Text](https://img.shields.io/badge/Kubernetes-005571?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&langs_count=8" />
-</a>
-
-<a href="https://github.com/Vulquimar-Silva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva" />
-</a>
 
