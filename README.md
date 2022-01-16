@@ -32,9 +32,9 @@
 ![Alt Text](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Npm-563D7C?style=for-the-badge&logo=npm&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Yarn-563D7C?style=for-the-badge&logo=yarn&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Yarn-0769AD?style=for-the-badge&logo=yarn&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nvm-563D7C?style=for-the-badge&logo=nvm&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
 
 
 
