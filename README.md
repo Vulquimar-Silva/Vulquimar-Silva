@@ -64,6 +64,6 @@
 ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/Kubernetes-005571?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Alt Text](https://img.shields.io/badge/terraform-005571?style=for-the-badge&logo=terraform&logoColor=white)
+![Alt Text](https://img.shields.io/badge/terraform-563D7C?style=for-the-badge&logo=terraform&logoColor=white)
 
 
