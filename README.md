@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo(a) ao meu perfil.
-* Trabalho com programação desde o início de [2020], até o momento venho aderindo muito conhecimento através de projetos e nos lugares por onde trabalhei.
+* Trabalho com programação desde o início de [2020], até o momento venho aderindo muito conhecimento através de projetos e nos lugares por onde trabalho/trabalhei.
 
 * Abaixo deixo um pouco do histórico de minha vida profissional.
 
