@@ -49,12 +49,11 @@
 ### IDE
 ![Alt Text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Alt Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 
 ### Estou estudando  
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Alt Text](https://img.shields.io/badge/figma-232F3E?style=for-the-badge&logo=figma&logoColor=white)
+![Alt Text](https://img.shields.io/badge/figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
