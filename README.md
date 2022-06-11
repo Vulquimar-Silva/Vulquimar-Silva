@@ -12,7 +12,8 @@
 ## Tecnologias que trabalho e outras que estou estudando.
 
 ```
-Algumas (Linguagens de programação - Bibliotecas - Frameworks - Gerenciadores de pacotes - sistema de controle de versão) que trabalho e tenho um pouco de conhecimento
+Algumas (Linguagens de programação - Bibliotecas - Frameworks - Gerenciadores de pacotes - sistema de controle de versão) 
+que trabalho e tenho um pouco de conhecimento
 ```
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
