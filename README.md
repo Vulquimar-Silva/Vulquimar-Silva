@@ -11,19 +11,6 @@
 
 ## Tecnologias que trabalho e outras que estou estudando.
 
-```
-Essas tecnologias abaixo são: 
-
-- Linguagens de programação 
-- Bibliotecas 
-- Frameworks 
-- Gerenciadores de pacotes 
-- Sistema de controle de versão
-
-OBS: Todas essas tecnologias abaixo eu já trabalho com elas
-
-```
-
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -50,6 +37,17 @@ OBS: Todas essas tecnologias abaixo eu já trabalho com elas
 ![Alt Text](https://img.shields.io/badge/Yarn-0769AD?style=for-the-badge&logo=yarn&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nvm-563D7C?style=for-the-badge&logo=nvm&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
+
+```
+OBS: Todas essas tecnologias acima eu já trabalhei e algumas eu ainda trabalho
+
+- Linguagens de programação 
+- Bibliotecas 
+- Frameworks 
+- Gerenciadores de pacotes 
+- Sistema de controle de versão
+
+```
 
 
 
