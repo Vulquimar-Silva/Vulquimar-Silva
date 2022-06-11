@@ -39,8 +39,7 @@
 ![Alt Text](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
 
 ```
-OBS: Todas essas tecnologias acima eu já utilizei, algumas eu ainda trabalho no meu dia a dia.
-
+OBS: Todas essas tecnologias acima eu já utilizei, algumas ainda fazem parte do meu trabalho no dia a dia.
 ```
 
 
