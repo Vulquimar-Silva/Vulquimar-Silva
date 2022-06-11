@@ -39,13 +39,7 @@
 ![Alt Text](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
 
 ```
-OBS: Todas essas tecnologias acima eu já trabalhei e algumas eu ainda trabalho
-
-- Linguagens de programação 
-- Bibliotecas 
-- Frameworks 
-- Gerenciadores de pacotes 
-- Sistema de controle de versão
+OBS: Todas essas tecnologias acima eu já utilizei, algumas eu ainda trabalho no meu dia a dia.
 
 ```
 
