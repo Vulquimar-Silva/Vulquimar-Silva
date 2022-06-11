@@ -12,7 +12,7 @@
 ## Tecnologias que trabalho e outras que estou estudando.
 
 ```
-Algumas (Linguagens de programação - Bibliotecas - Frameworks - Gerenciadores de pacotes - sistema de controle de versão) 
+OBS: Essas tecnologias abaixo são (Linguagens de programação - Bibliotecas - Frameworks - Gerenciadores de pacotes - sistema de controle de versão) 
 que trabalho e tenho um pouco de conhecimento
 ```
 
