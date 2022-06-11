@@ -12,8 +12,13 @@
 ## Tecnologias que trabalho e outras que estou estudando.
 
 ```
-OBS: Essas tecnologias abaixo são (Linguagens de programação - Bibliotecas - Frameworks - Gerenciadores de pacotes - sistema de controle de versão) 
-que trabalho e tenho um pouco de conhecimento
+OBS: Essas tecnologias abaixo são: 
+- Linguagens de programação 
+- Bibliotecas 
+- Frameworks 
+- Gerenciadores de pacotes 
+- Sistema de controle de versão
+Todas essas tecnologias eu trabalho e tenho um pouco de conhecimento
 ```
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
