@@ -56,6 +56,7 @@
 
 ### Estou estudando  
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Alt Text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,6 +65,7 @@
 ![Alt Text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Alt Text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Vue-4EA94B?style=for-the-badge&logo=v&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Nuxt-4EA94B?style=for-the-badge&logo=v&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/Kubernetes-005571?style=for-the-badge&logo=kubernetes&logoColor=white)
