@@ -2,9 +2,10 @@
 ```
 Trabalho com programação desde o início de <2020>, até o momento venho aderindo muito conhecimento 
 através de projetos particulares e também nas empresas que já trabalhei.
-
-Abaixo deixo um pouco do histórico de minha vida profissional.
 ```
+
+## Abaixo deixo um pouco do histórico de minha vida profissional.
+
 
 ### Rede Social
 [![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vulquimar-silva-0aab36119)
