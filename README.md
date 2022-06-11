@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo(a) ao meu perfil.
 ```
 Trabalho com programação desde o início de <2020>, até o momento venho aderindo muito conhecimento 
-através de projetos particulares e também pelos lugares que já trabalhei.
+através de projetos particulares e também nas empresas que já trabalhei.
 
 Abaixo deixo um pouco do histórico de minha vida profissional.
 ```
