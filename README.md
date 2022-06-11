@@ -13,12 +13,23 @@
 
 ```
 OBS: Essas tecnologias abaixo são: 
+
 - Linguagens de programação 
 - Bibliotecas 
 - Frameworks 
 - Gerenciadores de pacotes 
 - Sistema de controle de versão
+
 Todas essas tecnologias eu trabalho e tenho um pouco de conhecimento
+
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+
 ```
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
