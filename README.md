@@ -56,7 +56,7 @@
 
 ### Estou estudando  
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Alt Text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nestJS&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
