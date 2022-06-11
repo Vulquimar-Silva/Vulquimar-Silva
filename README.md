@@ -25,7 +25,7 @@
 ![Alt Text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nestJS&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -56,7 +56,7 @@
 
 ### Estou estudando  
 ![Alt Text](https://img.shields.io/badge/Figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nestJS&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
