@@ -19,7 +19,7 @@
 ![Alt Text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Alt Text](https://img.shields.io/badge/angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Vue-4EA94B?style=for-the-badge&logo=v&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Nuxt-4EA94B?style=for-the-badge&logo=v&logoColor=white)
+![Alt Text](https://img.shields.io/badge/Nuxt-4EA94B?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Alt Text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Alt Text](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
