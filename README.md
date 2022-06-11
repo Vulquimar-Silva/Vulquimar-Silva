@@ -34,7 +34,6 @@
 ![Alt Text](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Alt Text](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Yarn-0769AD?style=for-the-badge&logo=yarn&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nvm-563D7C?style=for-the-badge&logo=json&logoColor=white)
