@@ -55,9 +55,9 @@
 
 
 ### Estou estudando  
+![Alt Text](https://img.shields.io/badge/Figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nestJS&logoColor=white)
-![Alt Text](https://img.shields.io/badge/figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Alt Text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
