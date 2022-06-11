@@ -9,7 +9,7 @@
 [![Top Langs]( 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/foguim.junior.1)
 [![Top Langs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtMgPROMfPh_ozBoqUsNpQQ)
 
-## Tecnologias que trabalho, as que estou estudando e outras que tenho um pouco de conhecimento.
+## Tecnologias que trabalho e outras que estou estudando.
 
 ### Linguagens - Bibliotecas - Frameworks - Gerenciadores de pacotes
 
