@@ -70,3 +70,5 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 ---
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+---
