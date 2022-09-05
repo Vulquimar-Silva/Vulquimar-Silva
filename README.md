@@ -50,7 +50,7 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 > ### IDE
 ![Alt Text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-> ### Estou estudando  
+> ### Tecnologias que estou estudando  
 ![Alt Text](https://img.shields.io/badge/Figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nestJS&logoColor=white)
