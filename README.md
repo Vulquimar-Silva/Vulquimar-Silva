@@ -58,8 +58,6 @@ OBS: Todas essas tecnologias acima eu já utilizei, algumas ainda fazem parte do
 
 ### IDE
 ![Alt Text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Alt Text](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
 
 ### Estou estudando  
 ![Alt Text](https://img.shields.io/badge/Figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
