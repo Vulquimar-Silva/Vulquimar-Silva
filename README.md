@@ -10,8 +10,8 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 ### Rede Social
 [![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vulquimar-silva-0aab36119)
 [![Top Langs]( 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/foguim.junior.1)
-[![Top Langs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtMgPROMfPh_ozBoqUsNpQQ)
 <a href = "mailto:vuquimar@hotmail.com"><img src="https://img.shields.io/badge/-HOTMAIL-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+[![Top Langs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtMgPROMfPh_ozBoqUsNpQQ)
 ## Tecnologias que trabalho e outras que estou estudando.
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,4 +76,10 @@ OBS: Todas essas tecnologias acima eu já utilizei, algumas ainda fazem parte do
 
 ---
 
+<div align="center">
+  <a href="https://github.com/Vulquimar-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vulquimar-Silva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
