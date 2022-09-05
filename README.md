@@ -11,7 +11,7 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 [![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vulquimar-silva-0aab36119)
 [![Top Langs]( 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/foguim.junior.1)
 [![Top Langs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtMgPROMfPh_ozBoqUsNpQQ)
-<a href = "mailto:vuquimar@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:vuquimar@hotmail.com"><img src="https://img.shields.io/badge/-HOTMAIL-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 ## Tecnologias que trabalho e outras que estou estudando.
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
