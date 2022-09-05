@@ -10,7 +10,7 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 [![Top Langs]( 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/foguim.junior.1)
 <a href = "mailto:vuquimar@hotmail.com"><img src="https://img.shields.io/badge/-HOTMAIL-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 [![Top Langs](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtMgPROMfPh_ozBoqUsNpQQ)
-
+---
 > ### Tecnologias que trabalho e outras que já trabalhei.
 
 ![Alt Text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,18 +38,18 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 ![Alt Text](https://img.shields.io/badge/Yarn-0769AD?style=for-the-badge&logo=yarn&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nvm-563D7C?style=for-the-badge&logo=json&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white)
-
+---
 > ### Database  
 ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-
+---
 > ### Sistema Operacional
 ![Alt Text](https://img.shields.io/badge/Linux-ff8c00?style=for-the-badge&logo=linux&logoColor=black)
 ![Alt Text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+---
 > ### IDE
 ![Alt Text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+---
 > ### Tecnologias que estou estudando  
 ![Alt Text](https://img.shields.io/badge/Figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -67,11 +67,6 @@ através de projetos particulares e pelas empresas por onde trabalhei.
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Vulquimar-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vulquimar-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ---
