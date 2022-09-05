@@ -70,7 +70,6 @@ OBS: Todas essas tecnologias acima eu já utilizei, algumas ainda fazem parte do
 ![Alt Text](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Alt Text](https://img.shields.io/badge/FastApi-3776AB?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Kubernetes-005571?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/terraform-563D7C?style=for-the-badge&logo=terraform&logoColor=white)
