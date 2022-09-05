@@ -1,13 +1,11 @@
-## Olá, seja bem-vindo(a) ao meu perfil.
+> ## Olá, seja bem-vindo(a) ao meu perfil.
 ```
 Trabalho com programação desde o início de <2020>, até o momento venho aderindo muito conhecimento 
 através de projetos particulares e pelas empresas por onde trabalhei.
 ```
 
-## Abaixo deixo um pouco do meu histórico profissional até o momento.
+> ## Abaixo deixo um pouco do meu histórico profissional até o momento.
 
-
-### Rede Social e Email
 [![Top Langs](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vulquimar-silva-0aab36119)
 [![Top Langs]( 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/foguim.junior.1)
 <a href = "mailto:vuquimar@hotmail.com"><img src="https://img.shields.io/badge/-HOTMAIL-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
@@ -48,18 +46,18 @@ OBS: Todas essas tecnologias acima eu já utilizei, algumas ainda fazem parte do
 
 
 
-### Database  
+> ### Database  
 ![Alt Text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Alt Text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-### Sistema Operacional
+> ### Sistema Operacional
 ![Alt Text](https://img.shields.io/badge/Linux-ff8c00?style=for-the-badge&logo=linux&logoColor=black)
 ![Alt Text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### IDE
+> ### IDE
 ![Alt Text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### Estou estudando  
+> ### Estou estudando  
 ![Alt Text](https://img.shields.io/badge/Figma-%23575757?style=for-the-badge&logo=figma&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Alt Text](https://img.shields.io/badge/Nest-100000?style=for-the-badge&logo=nestJS&logoColor=white)
