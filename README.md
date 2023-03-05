@@ -1,6 +1,6 @@
 ## **Olá, seja bem-vindo(a) ao meu perfil.**
 ```
-Trabalho com programação desde o início de <2020>, até o momento venho aderindo muito conhecimento 
+Trabalho com TI desde <2015> e com programação desde o início de <2020>, até o momento venho aderindo muito conhecimento 
 através de cursos, livros, projetos particulares e pelas empresas por onde trabalhei.
 ```
 
